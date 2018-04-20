@@ -1,3 +1,4 @@
+
 /* Define this if your curses library has use_default_colors, for 
    cool transparency =-) */
 #undef HAVE_USE_DEFAULT_COLORS
@@ -14,3 +15,4 @@
 /* Define this if you have the resizeterm function in your ncurses-type library */
 #undef HAVE_RESIZETERM
 
+#define VERSION "1.2a"
